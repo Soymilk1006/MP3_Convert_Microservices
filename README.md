@@ -57,4 +57,3 @@ This project demonstrates the implementation of a microservices architecture and
    - The service retrieves the MP3 file from MongoDB and sends it to the user.
 
    
-P3 file from MongoDB and sends it to the user.
