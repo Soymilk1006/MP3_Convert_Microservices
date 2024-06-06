@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
         - name: gateway
-          image: sweasytech/gateway
+          image: soymilk1006/gateway
           envFrom:
             - configMapRef:
                 name: gateway-configmap
